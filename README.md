@@ -1,3 +1,7 @@
+
+![Cub3D Preview](https://github.com/buggcatcher/BOX/blob/main/cub3d-mailinci-42.png?raw=true)
+
+
 # Cub3D
 
 Cub3D is a graphical project developed in C that simulates a simple 3D rendering engine using "raycasting" (similar to Wolfenstein 3D). It allows you to explore 2D environments with a three-dimensional view.
