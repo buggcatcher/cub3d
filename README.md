@@ -1,5 +1,4 @@
-
-![Cub3D Preview](https://github.com/buggcatcher/public/blob/main/cub3d-mailinci-42.png?raw=true)
+[![Cub3D Tutorial](https://github.com/buggcatcher/public/blob/main/cub3d-mailinci-42.png?raw=true)](https://lodev.org/cgtutor/raycasting.html#The_Basic_Idea_)
 
 
 
