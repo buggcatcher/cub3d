@@ -1,5 +1,7 @@
 
-![Cub3D Preview](https://github.com/buggcatcher/BOX/blob/main/cub3d-mailinci-42.png?raw=true)
+![Cub3D Preview](https://github.com/buggcatcher/public/blob/main/cub3d-mailinci-42.png?raw=true)
+
+
 
 
 # Cub3D
