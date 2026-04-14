@@ -31,6 +31,7 @@ Cub3D is a graphical project developed in C that simulates a simple 3D rendering
    ```sh
    ./cub3d
    ```
+4. Get amazed by the syncronized changing colors that follow the tempo of an 8-bit track inspired by The Prodigy that gives a psychedelic visual effect.
 
 ## License
 Clone. Have fun.
